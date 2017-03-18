@@ -11,23 +11,63 @@
 
       }
 
-      "Msk2" : {
+      "Recomeçar" : {
 
-      Compositor:
-      Participação_esp:
-      Gravadora:
-      Ano:
+      Compositor: "Koba",
+      Participação_esp: "Sem Participação",
+      Gravadora:"Maynard Music / Art Mix"
+      Ano: "2009",
       Ft_Album:
 
       }
 
-      "Msk3" : {
+      "Vou_Cantar" : {
 
-      Compositor:
-      Participação_esp:
-      Gravadora:
-      Ano:
+      Compositor:"Koba",
+      Participação_esp:"Sem Participação",
+      Gravadora: "Maynard Music / Art Mix",
+      Ano:"2009",
       Ft_Album:
 
+      }
+ }
+
+
+ ItgRst = {
+
+      "Koba" : {
+
+      Nome: "Lucas Henrique Kobayashi de Oliveira",
+      Idade: "24 anos",
+      Cidade: "São Paulo",
+      Anivesário: "04 de Abril",
+      O que faz na banda: "Guitarrista",
+      }
+
+      "PeLanza" : {
+
+      Nome: "Pedro Gabriel Lanza Reis",
+      Idade: "24 anos",
+      Cidade: "São Paulo",
+      Anivesário: "14 de Abril",
+      O que faz na banda: "Voz e Baixo",
+      }
+
+      "Thomas" : {
+
+      Nome: "Thomas Alexander Machado D’Avilla",
+      Idade: "25 anos",
+      Cidade: "São Paulo",
+      Anivesário: "28 de Agosto",
+      O que faz na banda: "Bateirista",
+      }
+
+      "PeLu " : {
+
+      Nome: "Pedro Lucas Munhoz",
+      Idade: "26 anos",
+      Cidade: "São Paulo",
+      Anivesário: "14 de Janeiro",
+      O que faz na banda: "Guitarrista",
       }
  }
